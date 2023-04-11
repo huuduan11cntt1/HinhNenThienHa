@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049117631745",
+    "firebase_url": "https://hinh-nen-thien-ha-default-rtdb.firebaseio.com",
+    "project_id": "hinh-nen-thien-ha",
+    "storage_bucket": "hinh-nen-thien-ha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049117631745:android:86aa7d9618b8e0a24c6700",
+        "android_client_info": {
+          "package_name": "jos.tran.hinhnenthienha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049117631745-hgbptl55t6d7ngg5r230uh0hn9irivm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jos.tran.hinhnenthienha",
+            "certificate_hash": "fbfec8c95d542a38e74c069dc293b3a9e5b45e87"
+          }
+        },
+        {
+          "client_id": "1049117631745-bfq45bps4thtiho0c1983gtj2t4iippv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbC5UbmoulAVSupF-wjQMt1w6TSj6hP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049117631745-bfq45bps4thtiho0c1983gtj2t4iippv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
